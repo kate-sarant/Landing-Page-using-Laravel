@@ -1,0 +1,10 @@
+<svg width="43" height="40" viewBox="0 0 43 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="21.137" cy="20" rx="21.1233" ry="20" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.9764 30V20.877H26.2105L26.6948 17.3216H22.9764V15.0518C22.9764 14.0224 23.2783 13.3209 24.8373 13.3209L26.8257 13.3201V10.1401C26.4818 10.0968 25.3015 10 23.9282 10C21.0613 10 19.0986 11.6569 19.0986 14.6997V17.3216H15.8561V20.877H19.0986V30H22.9764Z" fill="white"/>
+<mask id="mask0_3_2684" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="15" y="10" width="12" height="20">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.9764 30V20.877H26.2105L26.6948 17.3216H22.9764V15.0518C22.9764 14.0224 23.2783 13.3209 24.8373 13.3209L26.8257 13.3201V10.1401C26.4818 10.0968 25.3015 10 23.9282 10C21.0613 10 19.0986 11.6569 19.0986 14.6997V17.3216H15.8561V20.877H19.0986V30H22.9764Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3_2684)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.0136719 0H42.2603V40H0.0136719V0Z" fill="#002868"/>
+</g>
+</svg>
